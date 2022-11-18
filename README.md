@@ -6,4 +6,3 @@ Right now, I am focused on school while working on code in my free time.
 
 If you want to reach out, you can:
 - Find me on Discord: `simple#5957`
-- Find me on Twitter: `@simpleauthority`
